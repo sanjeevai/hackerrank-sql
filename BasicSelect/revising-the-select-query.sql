@@ -4,7 +4,6 @@
 -- Problem: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 -- Subdomain: Basic Select
 -- Title: Revising the Select Query I
-
 SELECT *
 FROM CITY
 WHERE COUNTRYCODE = 'USA' AND POPULATION > 100000

@@ -4,7 +4,6 @@
 -- Problem: https://www.hackerrank.com/challenges/select-by-id/problem
 -- Subdomain: Basic Select
 -- Title: Select by ID
-
 SELECT *
 FROM CITY
 WHERE ID = 1661
