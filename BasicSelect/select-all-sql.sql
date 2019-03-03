@@ -4,6 +4,5 @@
 -- Problem: https://www.hackerrank.com/challenges/select-all-sql/problem
 -- Subdomain: Basic Select
 -- Title: Select All
-
 SELECT *
 FROM CITY
